@@ -1,0 +1,2 @@
+int choose_strong_or_weak;
+char if_all_weak_choose_the_largest_one;
