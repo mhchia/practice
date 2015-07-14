@@ -1,0 +1,32 @@
+
+Elf file type is DYN (Shared object file)
+Entry point 0x5e0
+There are 7 program headers, starting at offset 64
+
+Program Headers:
+  Type           Offset             VirtAddr           PhysAddr
+                 FileSiz            MemSiz              Flags  Align
+  LOAD           0x0000000000000000 0x0000000000000000 0x0000000000000000   #載入的VirtAddr竟然從0x00開始，是個無效位址
+                 0x000000000000078c 0x000000000000078c  R E    200000
+  LOAD           0x0000000000000e00 0x0000000000200e00 0x0000000000200e00
+                 0x0000000000000238 0x0000000000000240  RW     200000
+  DYNAMIC        0x0000000000000e18 0x0000000000200e18 0x0000000000200e18
+                 0x00000000000001c0 0x00000000000001c0  RW     8
+  NOTE           0x00000000000001c8 0x00000000000001c8 0x00000000000001c8
+                 0x0000000000000024 0x0000000000000024  R      4
+  GNU_EH_FRAME   0x000000000000070c 0x000000000000070c 0x000000000000070c
+                 0x000000000000001c 0x000000000000001c  R      4
+  GNU_STACK      0x0000000000000000 0x0000000000000000 0x0000000000000000
+                 0x0000000000000000 0x0000000000000000  RW     10
+  GNU_RELRO      0x0000000000000e00 0x0000000000200e00 0x0000000000200e00
+                 0x0000000000000200 0x0000000000000200  R      1
+
+ Section to Segment mapping:
+  Segment Sections...
+   00     .note.gnu.build-id .gnu.hash .dynsym .dynstr .gnu.version .gnu.version_r .rela.dyn .rela.plt .init .plt .text .fini .rodata .eh_frame_hdr .eh_frame 
+   01     .init_array .fini_array .jcr .dynamic .got .got.plt .data .bss 
+   02     .dynamic 
+   03     .note.gnu.build-id 
+   04     .eh_frame_hdr 
+   05     
+   06     .init_array .fini_array .jcr .dynamic .got 
