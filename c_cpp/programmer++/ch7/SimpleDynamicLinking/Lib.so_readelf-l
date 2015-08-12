@@ -24,7 +24,7 @@ Program Headers:
  Section to Segment mapping:
   Segment Sections...
    00     .note.gnu.build-id .gnu.hash .dynsym .dynstr .gnu.version .gnu.version_r .rela.dyn .rela.plt .init .plt .text .fini .rodata .eh_frame_hdr .eh_frame 
-   01     .init_array .fini_array .jcr .dynamic .got .got.plt .data .bss 
+   01     .init_array .fini_array .jcr .dynamic .got .got.plt .data .bss  # .got, .got.plt提供了延遲繫結(lazy binding)，利用PLT(Procedure Linkage Table)來實作。PLT會存一個procedure要跳轉所作的事情，如果該procedure未初始化則將他初始化(叫dynamic linker去完全繫結的工作，最後把procedure的真正位址填入GOT table)，下次再call到此procedure時就會直接進行GOT跳轉，減少啟動時的負擔。
    02     .dynamic 
    03     .note.gnu.build-id 
    04     .eh_frame_hdr 

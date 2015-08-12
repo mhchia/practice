@@ -1,0 +1,17 @@
+00400000-00401000 r-xp 00000000 08:09 6167248                            /home/kevin/practice/c_cpp/heap/a.out
+00600000-00601000 r--p 00000000 08:09 6167248                            /home/kevin/practice/c_cpp/heap/a.out
+00601000-00602000 rw-p 00001000 08:09 6167248                            /home/kevin/practice/c_cpp/heap/a.out
+7f6b45e27000-7f6b45fe2000 r-xp 00000000 08:08 1846389                    /lib/x86_64-linux-gnu/libc-2.19.so
+7f6b45fe2000-7f6b461e1000 ---p 001bb000 08:08 1846389                    /lib/x86_64-linux-gnu/libc-2.19.so
+7f6b461e1000-7f6b461e5000 r--p 001ba000 08:08 1846389                    /lib/x86_64-linux-gnu/libc-2.19.so
+7f6b461e5000-7f6b461e7000 rw-p 001be000 08:08 1846389                    /lib/x86_64-linux-gnu/libc-2.19.so
+7f6b461e7000-7f6b461ec000 rw-p 00000000 00:00 0 
+7f6b461ec000-7f6b4620f000 r-xp 00000000 08:08 1846383                    /lib/x86_64-linux-gnu/ld-2.19.so
+7f6b463e0000-7f6b463e3000 rw-p 00000000 00:00 0 
+7f6b4640c000-7f6b4640e000 rw-p 00000000 00:00 0 
+7f6b4640e000-7f6b4640f000 r--p 00022000 08:08 1846383                    /lib/x86_64-linux-gnu/ld-2.19.so
+7f6b4640f000-7f6b46410000 rw-p 00023000 08:08 1846383                    /lib/x86_64-linux-gnu/ld-2.19.so
+7f6b46410000-7f6b46411000 rw-p 00000000 00:00 0 
+7fff64380000-7fff643a1000 rw-p 00000000 00:00 0                          [stack]
+7fff643a8000-7fff643aa000 r-xp 00000000 00:00 0                          [vdso]
+ffffffffff600000-ffffffffff601000 r-xp 00000000 00:00 0                  [vsyscall]

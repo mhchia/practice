@@ -1,0 +1,9 @@
+
+Symbol table of `.gnu.hash' for image:
+  Num Buc:    Value          Size   Type   Bind Vis      Ndx Name
+    8   0: 0000000000201038     0 NOTYPE  GLOBAL DEFAULT  22 _edata
+    9   0: 0000000000201040     0 NOTYPE  GLOBAL DEFAULT  23 _end
+   10   1: 0000000000201038     0 NOTYPE  GLOBAL DEFAULT  23 __bss_start
+   11   1: 0000000000000578     0 FUNC    GLOBAL DEFAULT   9 _init
+   12   2: 00000000000006e8     0 FUNC    GLOBAL DEFAULT  12 _fini
+   13   2: 00000000000006c5    35 FUNC    GLOBAL DEFAULT  11 foobar
