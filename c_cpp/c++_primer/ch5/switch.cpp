@@ -74,13 +74,14 @@ int main(void)
 
     ch = 0;
     switch (ch) {
-        case true:;
+        case 1:;
 //            std::string file_name; // error, 因為同個scope中這個case label可能會被bypass且後面的case label可能會用到file_name，這樣就會error，所以language不會讓這件事發生
-            int jval;
-        case false:
+            std::cout << "ha" << std::endl;
+            int jval = 1;
+        case 0:
             jval = 1;
             {
-                std::string file_name; // ok, 因為限制file_name在這個block scope裡(block就是一個scope)，保證file_name只會存在這個case label的statement scope中。
+//                std::string file_name; // ok, 因為限制file_name在這個block scope裡(block就是一個scope)，保證file_name只會存在這個case label的statement scope中。
             }
     }
 

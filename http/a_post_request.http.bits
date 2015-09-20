@@ -1,0 +1,5 @@
+POST /index.php HTTP/1.1
+HOST: bits2.iis.sinica.edu.tw
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:39.0) Gecko/20100101 Firefox/39.0
+
+acc=yo&pwd=b*its
