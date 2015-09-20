@@ -1,7 +1,9 @@
+import base64
+
 from pwn import *
 
 
-alpha = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
+alpha = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
 conn = remote('csie.ctf.tw', 10112)
 
 def get_cipher():
@@ -31,7 +33,7 @@ conn.send(r+'\n')
 
 # round 4
 s = get_cipher()
-transform = "BZfAsbU9IOrlN7utjd0S5qp1EX2nT34eWQhoVHJigwGMmFYzxcvPDkK8CayR6L"
+transform = "rlN7utjd0S5qp1EX2nT34eWQhoVHJigwGMmFYzxcvPDkK8CayR6LBZfAsbU9IO"
 r = ""
 for char in s:
     r += alpha[transform.find(char)]
@@ -39,7 +41,6 @@ conn.send(r+'\n')
 
 # round 5
 s = get_cipher()
-print "get cipher: " + s
 r = ""
 for i in xrange(len(s)):
     # i % 5 == 0 -> -26
@@ -55,6 +56,24 @@ for i in xrange(len(s)):
         r += alpha[(alpha.find(s[i]) - 37 + len(alpha)) % len(alpha)]
     elif i % 5 == 4:
         r += alpha[(alpha.find(s[i]) - 30 + len(alpha)) % len(alpha)]
+conn.send(r+'\n')
+
+# round 6
+s = get_cipher()
+print "get cipher: " + s
+r = ""
+for i in xrange(len(s)):
+    if i == 0:
+        r += s[i]
+    else:
+        r += alpha[(alpha.find(s[i]) - alpha.find(s[i - 1]) + len(alpha)) % len(alpha)]
+
+print "my answer : " + r
+conn.send(r+'\n')
+# round 7
+s = get_cipher()
+print "get cipher: " + s
+r = base64.decodestring(s).replace('\n', '')
 print "my answer : " + r
 conn.send(r+'\n')
 
