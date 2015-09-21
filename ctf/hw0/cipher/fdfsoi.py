@@ -76,30 +76,6 @@ s = get_cipher()
 r = base64.decodestring(s).replace('\n', '')
 conn.send(r+'\n')
 
-# round 8
-s = get_cipher()
-print "get cipher: " + s
-cmd = "echo %s | xxd -r -p | gunzip -c" % s
-ps = subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
-r = ps.communicate()[0]
-print "my answer : " + r
-conn.send(r+'\n')
-
-# round 9
-s = get_cipher()
-print "get cipher: " + s
-a = "agcfiej9bkd864015h237"
-b = "0123456789abcdefghijk"
-
-dictionary = {}
-for i in xrange(len(s)):
-    dictionary[b.find(a[i])] = s[i]
-
-r = ''.join(dictionary.values()) 
-print "my answer : " + r
-conn.send(r+'\n')
-
-
 print conn.recvrepeat(0.5)
 conn.send(raw_input('')+'\n')
 print conn.recvrepeat(0.5)
