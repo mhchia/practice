@@ -14,24 +14,19 @@ newim = new_image.load()
 string = ""
 for i in xrange(im.size[0]):
     for j in xrange(im.size[1]):
-        a = bytes(pix[i, j][2])[0] & 1
-        '''
+        a = pix[i, j][2] & 1
         if a == 1:
+            sys.stdout.write('1')
+        else:
             sys.stdout.write('.')
-        else:
-            sys.stdout.write(' ')
-        '''
         string += str(a)
-        '''
         if pix[i, j][2] & 1:
-            newim[i, j] = (0, 0, 0)
+            newim[i, j] = (pix[i, j][0], pix[i, j][1], 255)
         else:
-            newim[i, j] = (255, 255, 255)
-        '''
+            newim[i, j] = (pix[i, j][0], pix[i, j][1], pix[i, j][2])
 '''
 string = "0b" + string[::-1]
 n = int(string, 2)
 print binascii.unhexlify('%x' % n)
 '''
-print string
 new_image.save('newnew.png')
