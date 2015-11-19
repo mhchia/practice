@@ -1,0 +1,18 @@
+username = ""
+cycle = '\xe1\xaa\x134\x05i>O7\x91\x87\x0b\x84"@\xe9'
+len(cycle) = 16
+# so 不夠
+
+# 觀察
+n=79時 恰出現cycle*4個，且和n=63時恰差1個cycle
+
+n=78時 恰出現cycle*3個
+直到n=63
+
+n=62時 恰出現cycle*2個
+直到 n=47
+
+n=46時 恰出現cycle*1個
+
+# 初步結論
+n=47時恰出現兩cycle, n=46時恰有s[0]進到可控制範圍

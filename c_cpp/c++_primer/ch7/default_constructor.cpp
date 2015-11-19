@@ -14,6 +14,7 @@ class C
 {
     A a; // A has no default constructor. Thus compiler dont know how to default initializer a. Then, C has no default constructor, too.
 };
+
 int main(void)
 {
     /* case 1 */
