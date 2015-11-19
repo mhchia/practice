@@ -26,9 +26,3 @@ for j in xrange(im.size[0]):
                 s1 += chr(char)
 
 print s1
-#n = int(string, 2)
-#print binascii.unhexlify('%x' % n)
-'''
-print string
-new_image.save('newnew.png')
-'''
