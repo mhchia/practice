@@ -1,0 +1,8 @@
+<?php
+$file = fopen("../../flag.php", "r");
+while (!feof($file)) {
+    $value = fgets($file);
+    print "The value of this line is " . $value . "<br>";
+}
+fclose($file);
+?>

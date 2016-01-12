@@ -1,0 +1,4 @@
+GET /mission1.php HTTP/1.1
+Host: mission.cebrusfs.com
+Accept-Encoding: flag
+
