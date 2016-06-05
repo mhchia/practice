@@ -1,0 +1,36 @@
+<?php
+    $hash = md5( $_SERVER['HTTP_USER_AGENT'] . $_SERVER['REMOTE_ADDR']  );
+
+    $dir = 'sandbox/' . $hash;
+    if ( !file_exists($dir) )
+        mkdir($dir);
+    chdir($dir);
+
+    $data = $_POST['data'];
+    $filename = $_POST['filename'];
+
+    if ( !isset($data, $filename) ) {
+        die('nothing to do :(');
+    }
+    
+    if( stristr($filename, '..') != False ){
+        die('what do you do?');
+    }
+    if( stristr($filename, 'file://') != False ){
+        die('what do you do?');
+    }
+    if( substr($filename, 0, 1) == '/' ){
+        die('what do you do?');
+    }
+
+    $log = <<<EOF
+    <?php 
+        exit('what do you do?');
+        // $data
+
+EOF;
+
+    file_put_contents($filename . '.php', $log);
+    echo '<img src=http://dl.stickershop.line.naver.jp/products/0/0/10/616/android/stickers/5751.png>';
+
+

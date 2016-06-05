@@ -1,0 +1,1 @@
+/system/lib/libhaha.so:/system/lib/libhook.so:print_native_hook

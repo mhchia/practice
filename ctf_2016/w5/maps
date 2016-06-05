@@ -1,0 +1,14 @@
+08048000-08049000 r-xp 00000000 08:05 927021                             /home/kevin/projects/practice/ctf_2016/w5/p3-f779eb3df6431a940fe233f7bb8c997f
+08049000-0804a000 r--p 00000000 08:05 927021                             /home/kevin/projects/practice/ctf_2016/w5/p3-f779eb3df6431a940fe233f7bb8c997f
+0804a000-0804b000 rw-p 00001000 08:05 927021                             /home/kevin/projects/practice/ctf_2016/w5/p3-f779eb3df6431a940fe233f7bb8c997f
+f75db000-f75dc000 rw-p 00000000 00:00 0 
+f75dc000-f7784000 r-xp 00000000 08:05 16650470                           /lib/i386-linux-gnu/libc-2.19.so
+f7784000-f7786000 r--p 001a8000 08:05 16650470                           /lib/i386-linux-gnu/libc-2.19.so
+f7786000-f7787000 rw-p 001aa000 08:05 16650470                           /lib/i386-linux-gnu/libc-2.19.so
+f7787000-f778a000 rw-p 00000000 00:00 0 
+f77b0000-f77b3000 rw-p 00000000 00:00 0 
+f77b3000-f77b4000 r-xp 00000000 00:00 0                                  [vdso]
+f77b4000-f77d4000 r-xp 00000000 08:05 16650478                           /lib/i386-linux-gnu/ld-2.19.so
+f77d4000-f77d5000 r--p 0001f000 08:05 16650478                           /lib/i386-linux-gnu/ld-2.19.so
+f77d5000-f77d6000 rw-p 00020000 08:05 16650478                           /lib/i386-linux-gnu/ld-2.19.so
+ffb31000-ffb52000 rw-p 00000000 00:00 0                                  [stack]

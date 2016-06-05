@@ -1,0 +1,834 @@
+Linux 3.13.0-63-generic
+Dumpcap 1.10.6 (v1.10.6 from master-1.10)
+host 140.112.31.96 and port 40123
+Linux 3.13.0-63-generic
+a1cpA
+q =Y
+5cpA
+5cpA
+vdog||233
+a1cpA
+a1cpA
+thisIsServer||820
+>cpA
+>cpA
+}+KUNyzQbl8ACMf0Dvdkl2auUC7Dzu1L/+Cc08McxBBw=
+a1cpA
+ Hi! dog, woof!woof!
+kcpA1
+a1cpA1
+q =Y
+lcpA2
+cat||783
+"thisIsServer||988
+fvGA6Rw/ZmN+J9n3Lord/Q387x1nELs7v1XVrliYI8s=
+)Hi! cat, meow~~
+q =Y
+bird||195
++thisIsServer||178
+GZIULPusAZBhmGJwEa7HOvKCl67U5e+eZnhIE7nXOU8=
+2Hi! bird, tweet!tweet!tweet!
+q =Y
+mouse||300
+4X!@
+FX"@
+3thisIsServer||705
+70BtpVlg54ukaBEhldcmV9N0LgRhjMSLim61dvU5WZY=
+IX#@
+:Hi! mouse, squeek!!!
+q =Y
+4X$@
+cow||807
+45(@
+F5)@
+<thisIsServer||888
+Qpm7dmzUi9buw6yTUl//yFw5+Mj7NVC5zsOX+PUUA04=
+D5*@
+CHi! cow, moo~~~
+45+@
+45,@
+<8N@
+q =Y
+48O@
+>8P@
+frog||798
+DthisIsServer||804
+48Q@
+a8R@
+dzspCbTlXRWQHuongIiBd7DUHXZIOqtZeqkAnufXfTw=
+KHi! frog, croak.
+48S@
+RDZq
+JuRDZr
+q =Y
+48T@
+RDZr|
+RDZr|
+elephant||407
+JvRDZ
+JvRDZ
+MthisIsServer||279
+/oppbbUot5X3XKeHJ40wP0XDu6kfiHJkbUU5rl7F82I=
+THi! elephant, toot~~~~
+q =Y
+duck||124
+VthisIsServer||292
+hRaJ2TxYrLMWdEemW33o1f5/AKI1kY5ZTvHXGnN7bf4=
+]Hi! duck, quack!quack~
+q =Y
+fish||514
+_thisIsServer||755
+bqQVSkw2Pd8xgBOT6WO9l2BAWKJ4ckZ0fxPwpEr+pP0=
+fHi! fish, blub blub blub
+q =Y
+seal||326
+gthisIsServer||180
+BBX9VpyCwls5t3MlKaZk8Nxpfn0ApLi4e9jYVqyD1sw=
+nHi! seal, ow~ow~ow~
+<LG@
+q =Y
+4LH@
+>LI@
+frog||565
+4x<@
+Fx=@
+pthisIsServer||208
+4LJ@
+aLK@
+a+dUnjr88lbzsR4hsOrODuem0/SdMLLeIaNIgNCosqk=
+^x>@
+wError base64(sha256(key+'||'+Nc+'||'+Ns))
+4LL@
+4x?@
+4LM@
+q =Y
+seal||997
+thisIsServer||181
+URjtsttvEh1OJOsCTSwMEDCXxw1QeGIg7D5Yyz2p0lk=
+Hi! seal, ow~ow~ow~
+q =Y
+cat||989
+thisIsServer||867
+9YwHCopsu33ZrtdFR9kc8m9hq/DYlZiN/F8gwUv4N5I=
+Hi! cat, meow~~
+MB&a6dQ
+q =Y
+MB&b
+MB&b
+*fish||899
+MB&b6dQ
+MB&b6dQ
+thisIsServer||635
+MB&t
+MB&t
+1eHF8vrRMsD0JooLcrTaREZAlD7IJZEI1g6cNr8Rmors=
+MB&t6dQJ
+Hi! fish, blub blub blub
+6dQJMB&
+6dQK
+6dQKMB&
+q =Y
+ffrog||346
+	thisIsServer||531
+mPHXeIFYxKA1E5oDYIYhEvZq7+d2vwrbZkZOW30KgOas=
+Hi! frog, croak.
+q =Y
+mouse||793
+NthisIsServer||643
+Gp9W/ERC8eEDufUY8QXK8au0efn9pxSSEirQ+Bzxvwk=
+UHi! mouse, squeek!!!
+q =Y
+bird||453
+thisIsServer||358
+f3AAdNuiN0Hk0aQDkK5zSwoTfue+akS2EzLZ0JHqsH0=
+Hi! bird, tweet!tweet!tweet!
+q =Y
+bird||707
+thisIsServer||151
+3dHEOV7/Yupgx55towXQsCEt56xX4G3eTKtHAcTGvVM=
+Hi! bird, tweet!tweet!tweet!
+q =Y
+?fish||411
+thisIsServer||860
+Ftdx1iz7URBzdPhlmLesylOvmD28j+qR1mQCEoBnZ91M=
+Hi! fish, blub blub blub
+4y @
+q =Y
+duck||644
+.thisIsServer||289
+fh+6FPe8deYp+uMmOWTTIl0LLE4zyimSjihIGxW7UGE=
+5Hi! duck, quack!quack~
+q =Y
+cow||741
+@thisIsServer||133
+jQkIEHq5vqHDEJiOurLY3Cw3bUIZKaVdPr3pvofpokc=
+GError base64(sha256(key+'||'+Nc+'||'+Ns))
+GnaX
+q =Y
+mouse||396
+GoaX
+GoaX
+qthisIsServer||145
+wXXTgmtTQQFPfTJDb95Wnmx8bCxIwkg2LGh7GnOIU7o=
+wHi! mouse, squeek!!!
+2/=}
+2/=~
+q =Y
+2/=~
+2/=~
+mouse||720
+thisIsServer||300
+ObWOPIpHXs42cw7MGf44dCONDFSOVrFh/3AKKV6nXsY=
+.&2/=
+Hi! mouse, squeek!!!
+.;2/=
+<Pu@
+q =Y
+4Pv@
+?Pw@
+9mouse||166
+thisIsServer||292
+4Px@
+aPy@
+@X4ra7Bw19/wzt4pS0UZgkuLnZ6DJ9bG4TsLtTRKqCG8=
+Hi! mouse, squeek!!!
+4Pz@
+4P{@
+q =Y
+Educk||272
+4	I@
+F	J@
+thisIsServer||371
+LANIybew5DwHEetgUs+5UwsdrecpeIwC6efTDi7XsYX8=
+K	K@
+Hi! duck, quack!quack~
+4	L@
+q =Y
+{elephant||546
+thisIsServer||566
+mKff84OY4uXK2YCMqekneS5nlqyp6kUCovcDrrUvLNk=
+%Hi! elephant, toot~~~~
+<PB@
+S$*E~M
+q =Y
+4PC@
+s$*E
+>PD@
+s$*E
+duck||878
+S$*E
+S$*E
+1thisIsServer||762
+4PE@
+}$*E
+aPF@
+}$*E
+kGCWqERdotxdtd3UPd1YlY9DIG78Xx13EKcv7Hx81QI=
+S$*E
+8Hi! duck, quack!quack~
+4PG@
+S$*E
+4PH@
+xq112{;
+q =Y
+lq113
+lq113
+elephant||699
+xq113{;
+xq113{;
+~thisIsServer||373
+zq11E
+zq11E
+0ePLnq0C39etTMvk4qwD8wmnJSCAtC9kuAdyD+1M4WQ=
+xq11E{;
+Hi! elephant, toot~~~~
+q11\
+xq11\{;
+q11]
+<`z@
+q =Y
+4`{@
+>`|@
+	duck||553
+thisIsServer||978
+4`}@
+a`~@
+sb3SKCD80WpAnD7YVXfhDw7ip9tPF6uWDPm8H+fxrvw=
+Hi! duck, quack!quack~
+q =Y
+dog||332
+thisIsServer||623
+"qHdBinViktfguWe1XSeFKEeUFLH9n+vqLze0/4wHGlA=
+Hi! dog, woof!woof!
+q =Y
++seal||280
+thisIsServer||930
+3LqtFLM7cHuIhrQ4cBEIvWN+MJET0IBzWidamFiQBhe4=
+Hi! seal, ow~ow~ow~
+q =Y
+Relephant||933
+4-6@
+F-7@
+thisIsServer||882
+ZcSWrtNz8VmIhjH/bWt2LLb+cZFw3BQ7JtSXCZ9+ePUU=
+K-8@
+Hi! elephant, toot~~~~
+4-9@
+q =Y
+duck||725
+.thisIsServer||817
+fcvVAL0wJJ389BWrLUD63YdPILtnZx8Tgi5biT41nPs=
+5Error base64(sha256(key+'||'+Nc+'||'+Ns))
+q =Y
+bird||774
+[thisIsServer||140
+ap	@
+FXRByDoCXlB2hWrWu2lmiMny4DUnOLf/uFK/9ri5DF0=
+bHi! bird, tweet!tweet!tweet!
+q =Y
+frog||446
+thisIsServer||695
+net4UzQu+LYNyPO25JTBzZ2+u/WjB3SPZA6J/eTAN1g=
+Hi! frog, croak.
+^?#u
+q =Y
+elephant||169
+^@#u
+^@#u
+thisIsServer||222
+RE71sttTSt85ht76cBQFZ8ybDAzsX56pRe82POjmx2o=
+^R#u
+Hi! elephant, toot~~~~
+^i#u
+yTVpP
+q =Y
+Sfish||450
+yUVpP
+yUVpP
+thisIsServer||889
+ZgzH8oQzOhP2YoPlsy6wOqfcrBMOabUF7BPcH7IqON88=
+ygVpQ
+Hi! fish, blub blub blub
+q =Y
+cow||371
+9thisIsServer||926
+Nj16lHWMpI9vD+Rf4cIlouMNOI3fcaAgZTANF+XaA60=
+@Hi! cow, moo~~~
+<19@
+q =Y
+41:@
+>1;@
+bird||183
+wthisIsServer||416
+7-	HB
+41<@
+/	Ho
+a1=@
+yp2naMd5xfb4iKaXYojYU3bOW1jlhPH+5Jjio3W9BAY=
+	0	H_
+~Hi! bird, tweet!tweet!tweet!
+;:	HB
+ZS	HB
+41>@
+xS	HB
+*X	HB
+41?@
+q =Y
+cow||427
+thisIsServer||697
+%jZWMzm2Tw906e/hR8eq2znTp1imHJH8LINJHcrBIZmg=
+Hi! cow, moo~~~
+q =Y
+0dog||292
+thisIsServer||813
+7lZhv88FEP3nOBWN6SNWMS/EJ43SPxU2mtGZiBqBz99Y=
+Hi! dog, woof!woof!
+q =Y
+Ccat||335
+thisIsServer||485
+JvdbnDjRs2qULm6PH5WS4SnovndRbBDKj3paZjnltkCs=
+Hi! cat, meow~~
+<-3@
+q =Y
+4-4@
+>-5@
+Vfish||886
+thisIsServer||152
+4-6@
+a-7@
+]lqiQvLYTco7LkIkiPf8dFlqqGQiMzCkG3SV/6iE9SzI=
+Error base64(sha256(key+'||'+Nc+'||'+Ns))
+4-8@
+4-9@
+q =Y
+elephant||419
+@thisIsServer||715
+xqtl27moedqbH0331derHyUzZ1A4pem1is+8e+KzsgE=
+GHi! elephant, toot~~~~
+q =Y
+elephant||600
+IthisIsServer||664
+XpL6I0ciEcJjQLjosESENPD/NqRiK1nEntXRhUL1bK0=
+PHi! elephant, toot~~~~
+q =Y
+fish||240
+[thisIsServer||210
+8gYrnGO2LXTMewMIc283ot8Ex5cysXs1JwULha99VKU=
+bHi! fish, blub blub blub
+q =Y
+duck||657
+thisIsServer||108
+zTMUCoziU/CG/CqorYqZYFMK00illwgQvZnSEpg10M0=
+Hi! duck, quack!quack~
+q =Y
+elephant||927
+thisIsServer||180
+zElzt2apKXUqA9d6MVFbMAGT2Kc7mM8dHAiWJmDcGJk=
+Hi! elephant, toot~~~~
+<ho@
+q =Y
+4hp@
+>hq@
+seal||815
+thisIsServer||166
+4hr@
+ahs@
+6azGGSgkmodozMP9XHd8Yg69/GVwccMe1C+FTgHaS/E=
+Error base64(sha256(key+'||'+Nc+'||'+Ns))
+4ht@
+4hu@
+6hYK
+q =Y
+dog||488
+6iYK
+6iYK
+thisIsServer||929
+%AUq9MQZIVyCfa3TbJLn6K8LbJksuVeDl1ZjfhRYenTY=
+6{YK
+Hi! dog, woof!woof!
+o!HJ
+p!HJ
+q =Y
+t!HB
+z!HJ
+{!HJ
+q =Y
+G|!HL
+jfish||360
+f|!HB
+jfox||848
+thisIsServer||528
+ryckYQuXzUKiHs6Qu9JmNyPVfB8iZV8R/FTA0zB+dGN4=
+Hi! fish, blub blub blub
+thisIsServer||124
+sLoMnmPrYpK24twHlbWat+Zxg0sx5rSgUS09SriuT8+U=
+Hi! fox, What do you say?
+l5#HJ
+5#HJ
+q =Y
+D#HB
+"P#HL
+bird||772
+<P#HB
+*thisIsServer||933
+jjyi9glLA1UAEMwoTuo3qlE6V58ZvfYDkWVREEqKNn4=
+EHi! bird, tweet!tweet!tweet!
+q =Y
+frog||978
+4iV@
+FiW@
+thisIsServer||239
+4&)HB
+()Ho
+0SzWKT0w9WgQjTcpbdB1jREaoPxd0XxJgzgKtYom/+8=
+()Hl
+^iX@
+TQ90
+Error base64(sha256(key+'||'+Nc+'||'+Ns))
+/)HB
+TQ90
+2)HB
+4iY@
+TQ91
+8)HB
+TQ91
+q =Y
+mouse||919
+'g,HT
+thisIsServer||249
+m,HB
+n,Ho
+sIkd4iLpvhqbkgr7nqbehoYFae18H3DzbBqRDJ1Vr14=
+n,HW
+Hi! mouse, squeek!!!
+lu,HB
+{x,HB
+~,HB
+q =Y
+(dog||897
+thisIsServer||535
+/wlSfCSxbEYXMAh3imWVpCAOyfVo1kATo6hVcsIT5pSI=
+''\-8
+Hi! dog, woof!woof!
+'\-8
+;'\-9
+'\-9
+<4'@
+q =Y
+44(@
+%0HL
+>4)@
+Zseal||635
+%0HB
+4V%@
+FV&@
+thisIsServer||751
+44*@
+a4+@
+aTccLQwXr/LNY1mz3F7h6z4jA6yXGitYgPxtbiHZ1pdQ=
+HV'@
+Hi! seal, ow~ow~ow~
+44,@
+4V(@
+44-@
+q =Y
+bird||675
+EthisIsServer||477
+r1RQZa0LAoiqqofwTw959DD3psucnQk+gCayoeEQXi8=
+LHi! bird, tweet!tweet!tweet!
+	5HB
+"	5HB
+=	5HB
+q =Y
+dog||268
+F9HT
+thisIsServer||305
+M9HB
+O9Ho
+DPocJjpuhkj9PRhpA/TUcQx+x+CUiZ+1xkcBGJXI7M0=
+P9HV
+Hi! dog, woof!woof!
+GW9HB
+YZ9HB
+1a9HB
+q =Y
+fish||607
+thisIsServer||424
+hq4hs3cp3AdbiV2BRjH1KXTMB0aa118b1MuoEpmZMug=
+Hi! fish, blub blub blub
+q =Y
+*duck||708
+VD=HT
+thisIsServer||659
+I=HB
+^K=Ho
+1KsLsPK51RkV7u7wBNpXFwYUnNilvJwiwwaJ9u+KnEQQ=
+HL=HY
+Hi! duck, quack!quack~
+/T=HB
+U=HB
+[=HB
+q =Y
+=mouse||848
+ l>HT
+thisIsServer||231
+<s>HB
+t>Ho
+D6QUrfp8cNNKogls+EYfn1viV9vewiUGC3cWpiEU051U=
+(v>HW
+Hi! mouse, squeek!!!
+{>HB
+j[?HJ
+~[?HJ
+q =Y
+d?HB
+f?HL
+Tfrog||779
+f?HB
+thisIsServer||485
+[RhtiizMK6s5chngRJU5E7ffY0HMYvbKCCJDhgUCukPE=
+Error base64(sha256(key+'||'+Nc+'||'+Ns))
+Z@HJ
+Z@HJ
+Su"d
+q =Y
+^@HB
+e@HL
+dfrog||134
+e@HB
+Su"d
+Su"d
+thisIsServer||736
+k7NWyRdQlMDP6nlQQf01oQELVepQ4c99Fb5v9/q+ZWa0=
+Su"e
+Hi! frog, croak.
+2u"e
+Su"e
+3u"e
+q =Y
+bird||685
+4't@
+qsBHT
+F'u@
+"thisIsServer||244
+xBHB
+QzBHo
+Le3Cg6i2n8qM7hlMuUoGRbSAN3xZboToU1x+MAb9m60=
+{BH_
+Q'v@
+)Hi! bird, tweet!tweet!tweet!
+4'w@
+_[CHJ
+[CHJ
+q =Y
+[`CHB
+gCHL
+seal||561
+%gCHB
+8thisIsServer||874
+Hdia9097fplJNTj+8J2F/MWwCeHPaUc3mxxk4KnfiQQ=
+?Error base64(sha256(key+'||'+Nc+'||'+Ns))
+q =Y
+fish||845
+8FHT
+`thisIsServer||123
+>FHB
+>FHo
+tE7zFcBuVqxpKPdICiKby3oT87xczEZYwjpj7AXP7QE=
+?FH[
+gHi! fish, blub blub blub
+EFHB
+=IFHB
+NFHB
+<P:@
+q =Y
+4P;@
+=P<@
+dog||112
+nthisIsServer||647
+4P=@
+aP>@
+ILHD3r8v2QHzKLrQyQhMwStDisyW3ljm6aHdgNa43lo=
+uHi! dog, woof!woof!
+#GHB
+4P?@
+(GHB
+)5GHB
+4P@@
+q =Y
+bird||115
+thisIsServer||346
+uTWxvtevSR7Ca2Zk0XSjJ19tLM6EPo6pmHaWfYbe1BM=
+Hi! bird, tweet!tweet!tweet!
+%JHB
+)JHB
+.JHB
+q =Y
+frog||373
+wKHT
+thisIsServer||634
+t}KHB
+negxd27firQcLqRlht/vZXan5538qVTPiyl8jQ0XYcI=
+Hi! frog, croak.
+q =Y
+Rmouse||536
+MOHT
+thisIsServer||453
+SOHB
+TOHo
+Y/IGpADKQ/bCsgFf3cBs1fwD6JBHv2+lS3/BsICjrHVU=
+UOHW
+Hi! mouse, squeek!!!
+\OHB
+_OHB
+4?	@
+:eOHB
+q =Y
+seal||222
+"thisIsServer||490
+l%RHB
+&RHo
+8GiEGIAv4VVZV3Bi5PFGPYIpNn/ajeFuFERSK9YbFZ4=
+'RHV
+*Hi! seal, ow~ow~ow~
+-RHB
+\1RHB
+\8RHB
+2ESHJ
+XESHJ
+q =Y
+bJSHB
+APSHK
+fox||945
+QPSHB
+=thisIsServer||213
+YMkKN9rbkiPVctYOo2KZxsZSl0HcfrPmyYx/lRtvq5c=
+DHi! fox, What do you say?
+<Ay@
+q =Y
+4Az@
+>A{@
+frog||122
+bthisIsServer||278
+4A|@
+aA}@
+MuooaeHpznNBdX215HtozKVs7gnE87jGKjUeKtdR5UU=
+iHi! frog, croak.
+4A~@
+GVHJ
+3GVHJ
+q =Y
+LVHB
+RVHM
+mouse||461
+RVHB
+nthisIsServer||272
+K0XHHunsR5my88S7VRYXbLsY4zpQjrGsJ76Qxq+MHG4=
+uHi! mouse, squeek!!!
+q =Y
+dog||703
+thisIsServer||428
+so+Hs3s+ANsdfZ6bRrUcYEUcAbq8vrGcuzb3s50GTfc=
+Hi! dog, woof!woof!
+d]HJ
+d]HJ
+*gk&
+q =Y
+i]HB
+{p]HP
+@elephant||279
+p]HB
+4Vk@
++gk&
+FVl@
++gk&
+thisIsServer||927
+GVKFx1ElHrT1g1J6F5N60tfFcOARkoy0iBty2Pg00pLQ=
+KVm@
+=gk&
+Hi! elephant, toot~~~~
+4Vn@
+Tgk&
+Rm`HJ
+wm`HJ
+q =Y
+Dr`HB
+y`HL
+rseal||944
+y`HB
+thisIsServer||250
+yQCa6F5EAgXnNP0I22K/cK1cWDbN9bxUS5niiqMt96Hc=
+Error base64(sha256(key+'||'+Nc+'||'+Ns))
+<l|@
+q =Y
+4l}@
+=l~@
+cow||949
+4<$@
+F<%@
+YthisIsServer||309
+tR+7vrL/bILC16RCCTEWH1DW0skShoeZq6GRWXxnTUA=
+D<&@
+`Hi! cow, moo~~~
+$eHB
+4<'@
+$eHB
+$eHB
+4<(@
+)eHB
+q =Y
+cat||596
+ThHT
+thisIsServer||834
+YhHB
+ZhHo
+bJjc6pX8HRRbmYsFlrrf38qMEt+j9yezMQ/G/STLnRA=
+[hHR
+Hi! cat, meow~~
+ahHB
+ehHB
+ lhHB
+_n03
+q =Y
+mouse||161
+_n03
+_n03
+thisIsServer||453
+ EhOHUnE44gftA0wiSFZ83OgyI6+c68YeU25RhG/gSTk=
+_n03
+Error base64(sha256(key+'||'+Nc+'||'+Ns))
+ kHB
+_n03
+&kHB
+&kHB
+_n03
+q =Y
+Yseal||840
+thisIsServer||232
+`vRuIX1ZYaIG2uop6N1jSQJ9RCEUZ/8wUBv1ChopM2U0=
+y'O'
+Hi! seal, ow~ow~ow~
+y'O'
+y'O(
+y'O(
+GqHJ
+GqHJ
+q =Y
+YMqHB
+OTqHM
+mouse||690
+jTqHB
+)thisIsServer||369
+FTEmrr8wi9qMPES8S5G9yWKYwcRzjdVJawU4pdWtO5s=
+0Hi! mouse, squeek!!!
+<Oi@
+q =Y
+4Oj@
+?Ok@
+mouse||489
+fuHT
+ethisIsServer||639
+snuHB
+4Ol@
+ouHo
+aOm@
+v/yB8VLgzt1YzW5EO/SxFnF2kpD1hGlkWZiY0ddkuBc=
+_puHW
+lHi! mouse, squeek!!!
+ZwuHB
+4On@
+yuHB
+4Oo@
+VvHJ
+VvHJ
+$+aL
+q =Y
+[vHB
+bvHP
+elephant||839
+bvHB
+$,aL
+$,aL
+|thisIsServer||362
+/WjIKc24hOtbWfKQQH8MIWdAyaDiI1iihf0rEwgtzZA=
+$>aL
+Error base64(sha256(key+'||'+Nc+'||'+Ns))
+$haL
+!9zHJ
+<nw@
+59zHJ
+q =Y
+>zHB
+4nx@
+GzHL
+>ny@
+seal||516
+5GzHB
+thisIsServer||845
+4nz@
+an{@
+F+ryWtZR/kYeP59LB+86RNCz7bM09HFTAkVt7lC0JZ0=
+Error base64(sha256(key+'||'+Nc+'||'+Ns))
+4n|@
+4n}@
+Counters provided by dumpcap

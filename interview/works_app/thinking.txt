@@ -1,0 +1,19 @@
+# steps to run
+with distance matrix, and minimum distance vector to store the minimum
+distance to a festive city.
+1. run bfs for all nodes to know distance between each other.
+2. every node record min distance
+3. when a city is festive, every node refresh its min festive.
+
+# time complexity
+setup : O(n^2)
+operations: O(m(n + 1)) (but at most O(n^2 + m), because there are at most n
+times of adding festive.)
+    m times of
+        a query : O(1)
+        an add festive : O(n)
+so O(n^2 + m)
+
+# thinking
+* if there are ways to reduce the complexity of setup, I can have a better
+  solution.

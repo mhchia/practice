@@ -1,0 +1,5 @@
+import Image
+
+import pytesseract
+
+
