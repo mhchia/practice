@@ -3,13 +3,7 @@
 #include <vector>
 #include <stdexcept>
 
-struct TreeNode
-{
-    int val;
-    TreeNode* left;
-    TreeNode* right;
-    TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
-};
+#include "tree.hpp"
 
 using namespace std;
 
@@ -60,14 +54,70 @@ void inorder_traverse(TreeNode* node)
     }
 }
 
-int main(void)
+void free_binary_tree(TreeNode* node)
 {
+    if (!node) {
+        return;
+    }
+    free_binary_tree(node->left);
+    free_binary_tree(node->right);
+    delete node;
+}
+
+void test_reconstruct_binary_tree_normal()
+{
+    // normal
     vector<int> inorder{2, 1, 4, 3};
     vector<int> preorder{1, 2, 3, 4};
 
     TreeNode* node = reconstruct_binary_tree(preorder, inorder, 0, preorder.size() - 1, 0, inorder.size() - 1);
     preorder_traverse(node); puts("");
     inorder_traverse(node); puts("");
+    free_binary_tree(node);
+}
+
+void test_reconstruct_binary_tree_skewed()
+{
+    // skewed
+    vector<int> inorder{1, 2, 3, 4};
+    vector<int> preorder{4, 3, 2, 1};
+
+    TreeNode* node = reconstruct_binary_tree(preorder, inorder, 0, preorder.size() - 1, 0, inorder.size() - 1);
+    preorder_traverse(node); puts("");
+    inorder_traverse(node); puts("");
+    free_binary_tree(node);
+}
+void test_reconstruct_binary_tree_one_node()
+{
+    // one node
+    vector<int> inorder{1};
+    vector<int> preorder{1};
+
+    TreeNode* node = reconstruct_binary_tree(preorder, inorder, 0, preorder.size() - 1, 0, inorder.size() - 1);
+    preorder_traverse(node); puts("");
+    inorder_traverse(node); puts("");
+    free_binary_tree(node);
+}
+
+void test_reconstruct_binary_tree_not_match()
+{
+    // preorder doesn't match inorder
+    vector<int> inorder{1, 2, 3, 4};
+    vector<int> preorder{1, 4, 7};
+
+    TreeNode* node = reconstruct_binary_tree(preorder, inorder, 0, preorder.size() - 1, 0, inorder.size() - 1);
+    preorder_traverse(node); puts("");
+    inorder_traverse(node); puts("");
+    free_binary_tree(node);
+}
+
+int main(void)
+{
+//    test_reconstruct_binary_tree_normal();
+//    test_reconstruct_binary_tree_skewed();
+//    test_reconstruct_binary_tree_one_node();
+//    test_reconstruct_binary_tree_not_match();
+    
 
     return 0;
 }

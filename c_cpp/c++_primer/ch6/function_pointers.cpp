@@ -4,10 +4,11 @@ using std::string;
 
 bool FuncA(const string &a, const string &b)
 {
-
+    return false;
 }
 bool FuncA(const string &a, int b)
 {
+    return true;
 }
 
 int FuncB(const string &a, const string &b);
@@ -38,5 +39,9 @@ int main(void)
     pf = 0;
 
     pf = FuncA; // pf points to FuncA(const string&, const string &) rather than FuncA(const string &, int)
+
+    bool (*funcc[])(const string&, const string&) = {FuncA};
+
+    return 0;
 }
 
